@@ -1,1 +1,0 @@
-import{g as e,v as t}from"./routes-ChU0cS1X.js";import{t as n}from"./integration-overview-DDCHjrRD.js";var r=t();function i(){let t=e().projectId??``;return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(`title`,{children:`Confluence · Aaxis Gencore`}),(0,r.jsx)(n,{projectId:t,kind:`confluence`})]})}export{i as default};
