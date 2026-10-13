@@ -1,0 +1,1 @@
+import{o as e}from"./api-vt-9hJqP.js";function t(e,t,n={}){let r=e.get(t);return typeof r==`string`?n.raw?r:r.trim():``}function n(t){if(e(t)){let{retryAfterSeconds:e,...n}=t.details??{};return{errors:n,error:t.message}}return{errors:{},error:t instanceof Error?t.message:`Something went wrong. Try again.`}}export{t as n,n as t};
