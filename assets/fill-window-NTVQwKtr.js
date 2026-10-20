@@ -1,0 +1,1 @@
+var e=`lg:flex lg:h-[calc(100dvh-7rem)] lg:min-h-[32rem] lg:flex-col`,t=`lg:flex lg:min-h-72 lg:flex-1 lg:flex-col lg:overflow-hidden`,n=`lg:flex lg:min-h-0 lg:flex-col`;export{e as n,n as r,t};
