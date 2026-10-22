@@ -1,0 +1,1 @@
+import{c as e,i as t,lt as n,t as r}from"./primitives-psUK3obc.js";var i=n();function a(){return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(`title`,{children:`Integrations · Administration · Aaxis Gencore`}),(0,i.jsx)(e,{title:`Integrations`}),(0,i.jsx)(r,{children:(0,i.jsx)(t,{children:`No integrations yet.`})})]})}export{a as default};
