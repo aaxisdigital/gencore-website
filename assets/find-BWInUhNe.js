@@ -1,1 +1,0 @@
-var e=e=>e.normalize(`NFD`).replace(/\p{M}/gu,``).toLowerCase();function t(t,n){let r=e(n.trim());return!r||e(t).includes(r)}export{t};

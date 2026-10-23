@@ -1,0 +1,1 @@
+import{c as e,i as t,t as n,wt as r}from"./primitives-B1kOK4bw.js";var i=r();function a(){return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(`title`,{children:`Integrations · Administration · Aaxis Gencore`}),(0,i.jsx)(e,{title:`Integrations`}),(0,i.jsx)(n,{children:(0,i.jsx)(t,{children:`No integrations yet.`})})]})}export{a as default};
