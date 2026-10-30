@@ -1,0 +1,1 @@
+var e={required:[`current_user:read`,`file_metadata:read`,`file_content:read`],helpful:[`library_content:read`,`file_variables:read`]};export{e as t};
