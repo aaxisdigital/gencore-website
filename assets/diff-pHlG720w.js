@@ -1,0 +1,3 @@
+var e=/^@@ -(\d+)(?:,\d+)? \+(\d+)(?:,\d+)? @@/;function t(t){let n=[],r=0,i=0,a=!1,o=t.replaceAll(/\r\n?/g,`
+`).split(`
+`);o.at(-1)===``&&o.pop();for(let t of o){let o=e.exec(t);o?(r=Number(o[1]),i=Number(o[2]),a=!0,n.push({kind:`hunk`,text:t})):a&&(t.startsWith(`+`)?n.push({kind:`added`,text:t.slice(1),newLine:i++}):t.startsWith(`-`)?n.push({kind:`removed`,text:t.slice(1),oldLine:r++}):t.startsWith(`\\`)?n.push({kind:`note`,text:t.slice(1).trim()}):n.push({kind:`context`,text:t.slice(1),oldLine:r++,newLine:i++}))}return n}var n=e=>e.filter(e=>e.kind===`added`||e.kind===`removed`||e.kind===`context`);export{t as n,n as t};
