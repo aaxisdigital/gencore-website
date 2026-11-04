@@ -1,0 +1,1 @@
+import{zt as e}from"./routes-BXEfX9NJ.js";import{a as t,t as n,u as r}from"./primitives-CXbtQt6g.js";var i=e();function a(){return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(`title`,{children:`Integrations · Administration · Aaxis Gencore`}),(0,i.jsx)(r,{title:`Integrations`}),(0,i.jsx)(n,{children:(0,i.jsx)(t,{children:`No integrations yet.`})})]})}export{a as default};
