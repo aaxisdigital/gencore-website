@@ -1,0 +1,1 @@
+function e(){try{return globalThis.localStorage??null}catch{return null}}export{e as t};
