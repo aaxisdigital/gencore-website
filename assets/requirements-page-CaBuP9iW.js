@@ -1,1 +1,0 @@
-import{Cn as e,c as t,zt as n}from"./routes-OJXkVU4X.js";import{i as r}from"./lib-DgVffjli.js";import{n as i}from"./index-Wl3EwVLd.js";var a=e();function o(){let e=i(),[o]=r(),s=o.get(`doc`);return(0,a.jsx)(n,{to:s?t.requirementDoc(e,s):t.requirements(e),replace:!0})}export{o as default};
