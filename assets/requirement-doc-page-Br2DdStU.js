@@ -1,0 +1,1 @@
+import{Cn as e,c as t,tn as n,zt as r}from"./routes-OJXkVU4X.js";import{n as i}from"./index-Wl3EwVLd.js";var a=e();function o(){let e=i(),o=n()[`*`]??``;return(0,a.jsx)(r,{replace:!0,to:t.requirementDoc(e,o)})}export{o as default};
