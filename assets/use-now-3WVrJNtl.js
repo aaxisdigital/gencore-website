@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-hePW80VL.js";import{En as t}from"./routes-CjumjL_u.js";var n=e(t(),1);function r(e,t=!0){let[r,i]=(0,n.useState)(()=>new Date);return(0,n.useEffect)(()=>{if(!t)return;i(new Date);let n=setInterval(()=>i(new Date),e);return()=>clearInterval(n)},[e,t]),r}export{r as t};
