@@ -1,0 +1,1 @@
+import{Bt as e,c as t,wn as n}from"./routes-B3gjVqBX.js";import{i as r}from"./lib-BqGIwEqX.js";import{n as i}from"./index-BJeDE7F5.js";var a=n();function o(){let n=i(),[o]=r(),s=o.get(`doc`);return(0,a.jsx)(e,{to:s?t.requirementDoc(n,s):t.requirements(n),replace:!0})}export{o as default};
