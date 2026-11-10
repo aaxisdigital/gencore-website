@@ -1,1 +1,0 @@
-import{Bt as e,c as t,nn as n,wn as r}from"./routes-B3gjVqBX.js";import{n as i}from"./index-DxKKfiAl.js";var a=r();function o(){let r=i(),o=n()[`*`]??``;return(0,a.jsx)(e,{replace:!0,to:t.requirementDoc(r,o)})}export{o as default};
